@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e3ebf39f-a8f6-4bb3-93dd-3d9593a420b3" name="Changes" comment="" />
+    <list default="true" id="8d5184e3-651e-4c4b-8c43-0accf85d6623" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/aws.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculus Ratiocinator.iml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,7 +20,7 @@
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 7
 }]]></component>
-  <component name="ProjectId" id="2hY0UW6pQL98zmwODw80cLcLVNM" />
+  <component name="ProjectId" id="2hY3BmtMco4gkwvkcV0Ex2uUTcZ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -29,11 +36,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e3ebf39f-a8f6-4bb3-93dd-3d9593a420b3" name="Changes" comment="" />
-      <created>1717755721795</created>
+      <changelist id="8d5184e3-651e-4c4b-8c43-0accf85d6623" name="Changes" comment="" />
+      <created>1717757055513</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1717755721795</updated>
+      <updated>1717757055513</updated>
     </task>
     <servers />
   </component>
