@@ -1,18 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="8d5184e3-651e-4c4b-8c43-0accf85d6623" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/aws.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calculus Ratiocinator.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculus Ratiocinator.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Calculus Ratiocinator.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="XML Properties File" />
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -28,11 +37,59 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Debug",
+    "Downloaded.Files.Path.Enabled": "true",
+    "JUnit.All in Calculus Ratiocinator.executor": "Debug",
+    "JUnit.test.testExample.executor": "Run",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Calculus Ratiocinator/src/test",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.6827586"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Calculus Ratiocinator\src\test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.test.testExample">
+    <configuration name="All in Calculus Ratiocinator" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Calculus Ratiocinator" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test.testExample" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Calculus Ratiocinator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.java.CalculusRaticinator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.java.CalculusRaticinator" />
+      <option name="MAIN_CLASS_NAME" value="test.java.CalculusRaticinator.test" />
+      <option name="METHOD_NAME" value="testExample" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.test.testExample" />
+        <item itemvalue="JUnit.All in Calculus Ratiocinator" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
