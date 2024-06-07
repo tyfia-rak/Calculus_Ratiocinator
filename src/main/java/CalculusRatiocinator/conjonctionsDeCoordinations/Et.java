@@ -16,6 +16,9 @@ public class Et extends Affirmation {
 
     @Override
     public boolean estVraie() {
-        return estVraie(affirmation1) && estVraie(affirmation2);
+        if (estVraie(affirmation1) && estVraie(affirmation2)){
+            return true;
+        }
+        return false;
     }
 }

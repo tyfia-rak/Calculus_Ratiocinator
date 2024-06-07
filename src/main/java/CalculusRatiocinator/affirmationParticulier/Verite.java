@@ -4,8 +4,8 @@ import main.java.CalculusRatiocinator.Affirmation;
 
 import java.util.Set;
 
-public class verite extends Affirmation {
-    protected verite(Set<String> affirmationsVraies, Set<String> affirmationsFausses) {
+public class Verite extends Affirmation {
+    protected Verite(Set<String> affirmationsVraies, Set<String> affirmationsFausses) {
         super(affirmationsVraies, affirmationsFausses);
     }
 
