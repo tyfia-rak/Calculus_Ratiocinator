@@ -2,18 +2,21 @@ package main.java.CalculusRatiocinator.conjonctionsDeCoordinations;
 
 import main.java.CalculusRatiocinator.Affirmation;
 
-public class Et extends Affirmation {
-    private final Affirmation Affirmation1;
-    private final Affirmation Affirmation2;
+import java.util.Set;
 
-    public Et(Affirmation Affirmation1, Affirmation Affirmation2) {
-        this.Affirmation1 = Affirmation1;
-        this.Affirmation2 = Affirmation2;
+public class Et extends Affirmation {
+    private final String affirmation1;
+    private final String affirmation2;
+
+    public Et(Set<String> affirmations, String affirmation1, String affirmation2) {
+        super(affirmations);
+        this.affirmation1 = affirmation1;
+        this.affirmation2 = affirmation2;
     }
 
     @Override
     public boolean estVraie() {
-        if (Affirmation1.estVraie() && Affirmation2.estVraie()){
+        if (contient(affirmation1) && contient(affirmation2)){
             return true;
         }
         return false;
